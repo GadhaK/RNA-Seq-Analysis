@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bai
+*.bw
+*.RData
+*.rds
+.httr-oauth
+.DS_Store
+.quarto
